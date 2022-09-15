@@ -1,7 +1,6 @@
 ### Hi there 👋, I will do this when I have time.
 
 | | |
-| :--: | :--: |
 | ![GitHub stats][GitHub stats] | ![Top Langs][Top Langs]|
 
 
