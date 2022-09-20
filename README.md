@@ -11,3 +11,7 @@
 | ------------- | ------------- |
 
 [//]: # "Alignment method is inspired by https://github.com/tnptw please visit his GitHub page."
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
