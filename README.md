@@ -12,7 +12,9 @@
 
 [//]: # "Alignment method is inspired by https://github.com/tnptw please visit his GitHub page."
 
-SELF REMINDER FOR FUTURE OCCASION__
+<br/>
+
+**SELF REMINDER FOR FUTURE OCCASION** <br/>
 - [x] **CREATE GITHUB README**
 - [x] **YOU CAN DO IT YAY**
 - [ ] **DON'T ACCIDENTALLY FORKED GITHUB**
