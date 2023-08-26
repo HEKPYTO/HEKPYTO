@@ -180,7 +180,7 @@ This journey involves not only learning but also applying these concepts through
 
 [![HEKYPTO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&count_private=true)](https://github.com/hekypto)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&theme=graywhite&cache_seconds=7000&disable_animations=true&hide_border=true&include_all_commits=true)](https://github.com/HEKYPTO)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&theme=graywhite&cache_seconds=7000&disable_animations=true&include_all_commits=true)](https://github.com/HEKYPTO)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
