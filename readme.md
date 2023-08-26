@@ -127,10 +127,10 @@
 
 ## Active Projects 🚀
 
-- [💻 Computer Programming C](https://github.com/HEKYPTO/)
+- [💻 Computer Programming C](https://github.com/HEKYPTO/) *Works in progress
 - [💎 Computer Programming Ruby](https://github.com/HEKYPTO/ComputerProgrammingWithRuby)
 - [🚗 Traffic Jam Analysis](https://github.com/HEKYPTO/TrafficJam)
-- [🎵 Musical AI Analysis](https://github.com/HEKYPTO/)
+- [🎵 Musical AI Analysis](https://github.com/HEKYPTO/) *Works in progress
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
