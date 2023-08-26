@@ -31,17 +31,17 @@
 <details>
   <summary>Table of Contents 📚</summary>
   <ol>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#current-vision">Current Vision</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#connect-with-me">Connect with Me</a></li>
-    <li><a href="#github-stats">GitHub Stats</a></li>
-    <li><a href="#contributions">Contributions</a></li>
-    <li><a href="#certifications-and-achievements">Certifications and Achievements</a></li>
-    <li><a href="#lets-connect">Let's Connect</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#readme-introduction">Introduction</a></li>
+    <li><a href="#readme-about-me">About Me</a></li>
+    <li><a href="#readme-current-vision">Current Vision</a></li>
+    <li><a href="#readme-tech-stack">Tech Stack</a></li>
+    <li><a href="#readme-projects">Projects</a></li>
+    <li><a href="#readme-connect-with-me">Connect with Me</a></li>
+    <li><a href="#readme-github-stats">GitHub Stats</a></li>
+    <li><a href="#readme-contributions">Contributions</a></li>
+    <li><a href="#readme-certifications-and-achievements">Certifications and Achievements</a></li>
+    <li><a href="#readme-lets-connect">Let's Connect</a></li>
+    <li><a href="#readme-acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -59,10 +59,11 @@
 <!-- ABOUT ME -->
 
 ## About Me 🌟
-  - 🎓 Education: Studying B.Eng. Computer Engineering at Chulalongkorn University since 2021.
-  - 🌱 Driven by a deep interest in <a href="#current-vision">Current Vision</a>.
-  - 💼 Currently, I'm working on <a href="#active-projects">Active Projects</a>.
-  - 💬 I'm open to discussion in <a href="#connect-with-me">Connect with me</a>.
+
+- 🎓 Education: Studying B.Eng. Computer Engineering at Chulalongkorn University since 2021.
+- 🌱 Driven by a deep interest in <a href="#current-vision">Current Vision</a>.
+- 💼 Currently, I'm working on <a href="#active-projects">Active Projects</a>.
+- 💬 I'm open to discussion in <a href="#connect-with-me">Connect with me</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,11 +179,18 @@ This journey involves not only learning but also applying these concepts through
 
 ## GitHub Stats 📊
 
-[![HEKYPTO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&count_private=true)](https://github.com/hekypto)
+<div style="display: flex;">
+  <a href="https://github.com/HEKYPTO" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&count_private=true" alt="HEKYPTO's GitHub Stats" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/HEKYPTO" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&theme=graywhite&cache_seconds=7000&disable_animations=true&hide_border=true&include_all_commits=true&layout=donut" alt="Top Languages" style="max-width: 100%;">
+  </a>
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&cache_seconds=7000&disable_animations=true&include_all_commits=true)](https://github.com/HEKYPTO)
-
+<br clear="both">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTIONS -->
 
@@ -191,7 +199,8 @@ This journey involves not only learning but also applying these concepts through
 - [Void Seekers](https://github.com/vtneil/void_seekers) 🎮: A game development project in Java.
 - [Embed System for Wild Fire Detection](https://github.com/vtneil/emb_forest_fire) 🔥: An embedded system for detecting wildfires.
 - [Traffic Jam Prediction with Machine Learning and Time Series Analysis](https://github.com/poypythuncha/ML-project) 🚗🔍: Project that uses ML and time series analysis to predict traffic jams in certain areas.
-- More exciting projects coming soon, stay tuned! 🚀
+
+More exciting projects coming soon, stay tuned! 🚀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
