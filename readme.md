@@ -3,9 +3,9 @@
 <a name="readme-top"></a>
 
 <!--
-*** Thanks for dropping by my GitHub profile. If you'd like to connect or collaborate,
-*** feel free to reach out. Don't forget to give a star to the repositories you like! 🌟
-*** Have an amazing day and keep coding! 😄🚀
+*** Thanks for visiting my GitHub profile. If you'd like to connect or collaborate,
+*** feel free to reach out. Don't forget to star the repositories you find interesting! 🌟
+*** Have an awesome day and keep coding! 😄🚀
 -->
 
 <!-- PROJECT TITLE -->
@@ -19,7 +19,7 @@
     <a href="https://github.com/HEKYPTO?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hekypto">View Demo</a>
+    <a href="https://github.com/HEKYPTO?tab=repositories">View Demo</a>
     ·
     <a href="https://github.com/hekypto/issues">Report Bug</a>
     ·
@@ -31,15 +31,10 @@
 <details>
   <summary>Table of Contents 📚</summary>
   <ol>
-    <li>
-      <a href="#about-me">About Me</a>
-    </li>
-    <li>
-      <a href="#tech-stack">Tech Stack</a>
-    </li>
-    <li>
-      <a href="#projects">Projects</a>
-    </li>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#current-vision">Current Vision</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#projects">Projects</a></li>
     <li><a href="#connect-with-me">Connect with Me</a></li>
     <li><a href="#github-stats">GitHub Stats</a></li>
     <li><a href="#contributions">Contributions</a></li>
@@ -57,6 +52,31 @@
   <img src="https://avatars.githubusercontent.com/u/105188275?v=4" alt="HEKYPTO's Avatar" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;" />
   <p>Hi there! 🌟 I'm HEKYPTO, a passionate Data Scientist and AI enthusiast. My mission is to harness the power of data and AI to create innovative solutions that make an impact.</p>
 </div>
+
+<div style="display: flex; margin-top: 20px;">
+  <div>
+    <p>🎓 Education Background: Studying B.Eng. Computer Engineering, Chulalongkorn University since 2021.</p>
+    <p>🌱 I’m currently interested in <a href="#current-vision">Current Vision</a>.</p>
+    <p>💼 Currently working at/on <a href="#active-projects">Active Projects</a>.</p>
+    <p>💬 Feel free to ask me anything on <a href="#connect-with-me">Connect with Me</a>.</p>
+  </div>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CURRENT VISION -->
+
+## Current Vision 🔮
+
+I am currently focusing on expanding my knowledge in several exciting domains:
+
+- **Machine Learning and AI**: 🤖🧠 I'm delving deeper into the realms of Machine Learning and Artificial Intelligence. Exploring algorithms, models, and applications that can transform raw data into intelligent insights.
+
+- **Game Development**: 🎮 I'm also exploring the fascinating world of game development. Learning about game engines, mechanics, and the creative process of bringing virtual worlds to life.
+
+- **Linux Distros**: 🐧 With a curious mind for technology, I'm experimenting with various Linux distributions. Exploring their unique features, command-line tools, and the freedom they offer.
+
+This journey involves not only learning but also applying these concepts through hands-on projects and collaborations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,6 +131,14 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
+### OS
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -127,10 +155,10 @@
 
 ## Active Projects 🚀
 
-- [💻 Computer Programming C](https://github.com/HEKYPTO/) *Works in progress
+- [💻 Computer Programming C](https://github.com/HEKYPTO/) \*Works in progress
 - [💎 Computer Programming Ruby](https://github.com/HEKYPTO/ComputerProgrammingWithRuby)
 - [🚗 Traffic Jam Analysis](https://github.com/HEKYPTO/TrafficJam)
-- [🎵 Musical AI Analysis](https://github.com/HEKYPTO/) *Works in progress
+- [🎵 Musical AI Analysis](https://github.com/HEKYPTO/) \*Works in progress
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,35 +186,15 @@
 ## Contributions 🌟
 
 - [Void Seekers](https://github.com/vtneil/void_seekers) 🎮: A game development project in Java.
-- [Embed System for Wild Fire Detection](https://github.com/vtneil/emb_forest_fire) 🔥: An embedded system for detecting wild fires.
+- [Embed System for Wild Fire Detection](https://github.com/vtneil/emb_forest_fire) 🔥: An embedded system for detecting wildfires.
+- [Traffic Jam Prediction with Machine Learning and Time Series Analysis](https://github.com/poypythuncha/ML-project) 🚗🔍: Project that uses ML and time series analysis to predict traffic jams in certain areas.
 - More exciting projects coming soon, stay tuned! 🚀
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CERTIFICATIONS AND ACHIEVEMENTS
-## Certifications and Achievements
-
-- [Data Science Certification](Link to Certification 1) 📜
-- [Machine Learning Specialization](Link to Certification 2) 🧠
-- ...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LET'S CONNECT -->
-
-## Let's Connect! 🤝
-
-I'm always excited to connect with fellow data enthusiasts and AI aficionados. Feel free to reach out for discussions, collaborations, or just to share ideas!
-
-Peek at the [Connect with Me](#connect-with-me) section for more contact details.
-
-Keep coding with a touch of magic! 🚀✨
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENT -->
 
-## Acknowledgement 🎉
+## Acknowledgment 🎉
 
 Hats off and virtual high-fives to the following amazing folks:
 
