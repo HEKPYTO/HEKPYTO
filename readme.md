@@ -9,7 +9,6 @@
 -->
 
 <!-- PROJECT TITLE -->
-<br />
 <div align="center">
   <h1>HEKYPTO</h1>
   <p align="center">
