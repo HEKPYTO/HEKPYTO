@@ -46,6 +46,7 @@
 </details>
 
 <!-- INTRODUCTION -->
+<a name="readme-introduction"></a>
 
 ## Introduction 👋
 
@@ -57,6 +58,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT ME -->
+<a name="readme-about-me"></a>
 
 ## About Me 🌟
 
@@ -68,6 +70,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CURRENT VISION -->
+<a name="readme-current-vision"></a>
 
 ## Current Vision 🔮
 
@@ -84,8 +87,10 @@ This journey involves not only learning but also applying these concepts through
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TECH STACK -->
+<a name="readme-tech-stack"></a>
 
 ## Tech Stack 🛠️
+
 
 <div align="center">
 
@@ -156,6 +161,7 @@ This journey involves not only learning but also applying these concepts through
 </div>
 
 <!-- ACTIVE PROJECTS -->
+<a name="readme-projects"></a>
 
 ## Active Projects 🚀
 
@@ -167,6 +173,7 @@ This journey involves not only learning but also applying these concepts through
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONNECT WITH ME -->
+<a name="readme-connect-with-me"></a>
 
 ## Connect with Me 💬
 
@@ -176,6 +183,7 @@ This journey involves not only learning but also applying these concepts through
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GITHUB STATS -->
+<a name="readme-github-stats"></a>
 
 ## GitHub Stats 📊
 
@@ -193,6 +201,7 @@ This journey involves not only learning but also applying these concepts through
 
 
 <!-- CONTRIBUTIONS -->
+<a name="readme-contributions"></a>
 
 ## Contributions 🌟
 
@@ -205,6 +214,7 @@ More exciting projects coming soon, stay tuned! 🚀
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENT -->
+<a name="readme-acknowledgments"></a>
 
 ## Acknowledgment 🎉
 
