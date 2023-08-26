@@ -192,7 +192,7 @@ This journey involves not only learning but also applying these concepts through
     <img src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&count_private=true" alt="HEKYPTO's GitHub Stats" style="max-width: 100%;">
   </a>
   <a href="https://github.com/HEKYPTO" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&theme=graywhite&cache_seconds=7000&disable_animations=true&hide_border=true&include_all_commits=true&layout=donut" alt="Top Languages" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&cache_seconds=7000&disable_animations=true&include_all_commits=true&layout=donut" alt="Top Languages" style="max-width: 100%;">
   </a>
 </div>
 
