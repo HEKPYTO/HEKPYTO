@@ -31,6 +31,7 @@
 <details>
   <summary>Table of Contents 📚</summary>
   <ol>
+    <li><a href="#introduction">Introduction</a></li>
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#current-vision">Current Vision</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
@@ -44,23 +45,24 @@
   </ol>
 </details>
 
-<!-- ABOUT ME -->
+<!-- INTRODUCTION -->
 
-## About Me 👋
+## Introduction 👋
 
 <div style="display: flex; align-items: center;">
   <img src="https://avatars.githubusercontent.com/u/105188275?v=4" alt="HEKYPTO's Avatar" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;" />
-  <p>Hi there! 🌟 I'm HEKYPTO, a passionate Data Scientist and AI enthusiast. My mission is to harness the power of data and AI to create innovative solutions that make an impact.</p>
+  <p>Hello there! 🙌 I'm HEKYPTO, a passionate Data Scientist and AI enthusiast. My goal is to harness the power of data and AI to create innovative solutions that have a meaningful impact.</p>
 </div>
 
-<div style="display: flex; margin-top: 20px;">
-  <div>
-    <p>🎓 Education Background: Studying B.Eng. Computer Engineering, Chulalongkorn University since 2021.</p>
-    <p>🌱 I’m currently interested in <a href="#current-vision">Current Vision</a>.</p>
-    <p>💼 Currently working at/on <a href="#active-projects">Active Projects</a>.</p>
-    <p>💬 Feel free to ask me anything on <a href="#connect-with-me">Connect with Me</a>.</p>
-  </div>
-</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ABOUT ME -->
+
+## About Me 🌟
+  - 🎓 Education: Studying B.Eng. Computer Engineering at Chulalongkorn University since 2021.
+  - 🌱 Driven by a deep interest in <a href="#current-vision">Current Vision</a>.
+  - 💼 Currently, I'm working on <a href="#active-projects">Active Projects</a>.
+  - 💬 I'm open to discussion in <a href="#connect-with-me">Connect with me</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,12 +121,13 @@ This journey involves not only learning but also applying these concepts through
 
 ### Front-End Development
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 ### Game Development
 
