@@ -10,7 +10,7 @@
 
 <!-- PROJECT TITLE -->
 <div align="center">
-  <h1>не круто</h1>
+  <h1>HEKYPTO</h1>
   <p align="center">
     Passionate about Data Science and AI 📊🤖
     <br />
@@ -52,7 +52,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://avatars.githubusercontent.com/u/105188275?v=4" alt="HEKYPTO's Avatar" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;" />
-  <p>Hello there! 🙌 I'm не круто, a passionate Data Scientist and AI enthusiast. My goal is to harness the power of data and AI to create innovative solutions that have a meaningful impact.</p>
+  <p>Hello there! 🙌 I'm HEKYPTO, a passionate Data Scientist and AI enthusiast. My goal is to harness the power of data and AI to create innovative solutions that have a meaningful impact.</p>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
