@@ -190,18 +190,8 @@ This journey involves not only learning but also applying these concepts through
 
 ## GitHub Stats 📊
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/HEKYPTO">
-      <img src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&count_private=true" alt="HEKYPTO's GitHub Stats" style="max-width: 100%;">
-    </a>
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/HEKYPTO">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKYPTO&cache_seconds=7000&disable_animations=true&include_all_commits=true&layout=donut" alt="Top Languages" style="max-width: 100%;">
-    </a>
-  </div>
-</div>
+| <a href="https://github.com/HEKYPTO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&theme=graywhite&hide_border=true"/></a> | <a href="https://github.com/HEKYPTO"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekypto&layout=compact&theme=graywhite&hide_border=true"/></a> |
+| --- | --- |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
