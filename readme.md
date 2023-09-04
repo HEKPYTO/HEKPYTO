@@ -39,8 +39,6 @@
     <li><a href="#readme-connect-with-me">Connect with Me</a></li>
     <li><a href="#readme-github-stats">GitHub Stats</a></li>
     <li><a href="#readme-contributions">Contributions</a></li>
-    <li><a href="#readme-certifications-and-achievements">Certifications and Achievements</a></li>
-    <li><a href="#readme-lets-connect">Let's Connect</a></li>
     <li><a href="#readme-acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
