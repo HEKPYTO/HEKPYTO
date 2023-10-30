@@ -35,10 +35,12 @@
     <li><a href="#readme-about-me">About Me</a></li>
     <li><a href="#readme-current-vision">Current Vision</a></li>
     <li><a href="#readme-tech-stack">Tech Stack</a></li>
-    <li><a href="#readme-projects">Active Projects</a></li>
+    <li><a href="#readme-projects">Projects</a></li>
     <li><a href="#readme-connect-with-me">Connect with Me</a></li>
     <li><a href="#readme-github-stats">GitHub Stats</a></li>
     <li><a href="#readme-contributions">Contributions</a></li>
+    <li><a href="#readme-certifications-and-achievements">Certifications and Achievements</a></li>
+    <li><a href="#readme-lets-connect">Let's Connect</a></li>
     <li><a href="#readme-acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -76,7 +78,7 @@ I am currently focusing on expanding my knowledge in several exciting domains:
 
 - **Machine Learning and AI**: 🤖🧠 I'm delving deeper into the realms of Machine Learning and Artificial Intelligence. Exploring algorithms, models, and applications that can transform raw data into intelligent insights.
 
-- **Game Development**: 🎮 I'm also exploring the fascinating world of game development. Learning about game engines, mechanics, and the creative process of bringing virtual worlds to life.
+- **Web Development**: 💻 I'm also exploring the dynamic realm of web development. Delving into front-end and back-end technologies, understanding web frameworks, and mastering the art of crafting interactive and responsive web applications.
 
 - **Linux Distros**: 🐧 With a curious mind for technology, I'm experimenting with various Linux distributions. Exploring their unique features, command-line tools, and the freedom they offer.
 
@@ -106,8 +108,8 @@ This journey involves not only learning but also applying these concepts through
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ### Machine Learning
 
@@ -125,13 +127,17 @@ This journey involves not only learning but also applying these concepts through
 
 ### Front-End Development
 
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=c8c9cb)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Game Development
 
@@ -141,13 +147,16 @@ This journey involves not only learning but also applying these concepts through
 ### OS
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
+![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=flat-square&logo=tails&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Tools
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -175,7 +184,7 @@ This journey involves not only learning but also applying these concepts through
 ## Connect with Me 💬
 
 - **Email:** [tsunyanapat@gmail.com](mailto:tsunyanapat@gmail.com) 🌐
-- **LinkedIn:** [\*Deprecated](https://www.linkedin.com) 🔗
+- **LinkedIn:** [Yanapat P.](https://www.linkedin.com/in/yanapat-patcharawiwatpong-030216298/) 🔗
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +210,7 @@ This journey involves not only learning but also applying these concepts through
 - [Void Seekers](https://github.com/vtneil/void_seekers) 🎮: A game development project in Java.
 - [Embed System for Wild Fire Detection](https://github.com/vtneil/emb_forest_fire) 🔥: An embedded system for detecting wildfires.
 - [Traffic Jam Prediction with Machine Learning and Time Series Analysis](https://github.com/poypythuncha/ML-project) 🚗🔍: Project that uses ML and time series analysis to predict traffic jams in certain areas.
+- [DEEP](https://github.com/KiraraGZ/DEEP): Survival Undersea 🌊🎮: A Unity game jam project set in the deep sea survival under the challenges of the ocean depths.
 
 More exciting projects coming soon, stay tuned! 🚀
 
