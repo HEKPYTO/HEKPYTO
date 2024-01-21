@@ -34,7 +34,6 @@
     <li><a href="#readme-introduction">Introduction</a></li>
     <li><a href="#readme-about-me">About Me</a></li>
     <li><a href="#readme-current-vision">Current Vision</a></li>
-    <li><a href="#readme-tech-stack">Tech Stack</a></li>
     <li><a href="#readme-projects">Projects</a></li>
     <li><a href="#readme-connect-with-me">Connect with Me</a></li>
     <li><a href="#readme-github-stats">GitHub Stats</a></li>
