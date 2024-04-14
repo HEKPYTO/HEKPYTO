@@ -10,7 +10,7 @@
 
 <!-- PROJECT TITLE -->
 <div align="center">
-  <h1>HEKYPTO</h1>
+  <h1>HEKPYTO</h1>
   <p align="center">
     Passionate about Data Science and AI 📊🤖
     <br />
