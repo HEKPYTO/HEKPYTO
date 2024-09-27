@@ -50,7 +50,6 @@
 ## Introduction 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/105188275?v=4" alt="HEKYPTO's Avatar" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;" />
   <p>Hello there! 🙌 I'm HEKYPTO, a passionate Data Scientist and AI enthusiast. My goal is to harness the power of data and AI to create innovative solutions that have a meaningful impact.</p>
 </div>
 
