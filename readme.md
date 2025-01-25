@@ -35,7 +35,6 @@
     <li><a href="#readme-about-me">About Me</a></li>
     <li><a href="#readme-current-vision">Current Vision</a></li>
     <li><a href="#readme-projects">Projects</a></li>
-    <li><a href="#readme-connect-with-me">Connect with Me</a></li>
     <li><a href="#readme-github-stats">GitHub Stats</a></li>
     <li><a href="#readme-contributions">Contributions</a></li>
     <li><a href="#readme-certifications-and-achievements">Certifications and Achievements</a></li>
@@ -95,25 +94,12 @@ This journey involves not only learning but also applying these concepts through
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONNECT WITH ME -->
-<a name="readme-connect-with-me"></a>
-
-## Connect with Me 💬
-
-- **Email:** [tsunyanapat@gmail.com](mailto:tsunyanapat@gmail.com) 🌐
-- **LinkedIn:** [Yanapat P.](https://www.linkedin.com/in/yanapat-patcharawiwatpong-030216298/) 🔗
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GITHUB STATS -->
-<a name="readme-github-stats"></a>
-
 <!-- GITHUB STATS -->
 <a name="readme-github-stats"></a>
 
 ## GitHub Stats 📊
 
-| <a href="https://github.com/HEKYPTO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&theme=graywhite&hide_border=true"/></a> | <a href="https://github.com/HEKYPTO"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekypto&layout=compact&theme=graywhite&hide_border=true"/></a> |
+| <a href="https://github.com/HEKPYTO"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hekypto&show_icons=true&theme=graywhite&hide_border=true"/></a> | <a href="https://github.com/HEKPYTO"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekypto&layout=compact&theme=graywhite&hide_border=true"/></a> |
 | --- | --- |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
