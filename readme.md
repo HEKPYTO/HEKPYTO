@@ -99,7 +99,7 @@ This journey involves not only learning but also applying these concepts through
 
 ## GitHub Stats 📊
 
-| <a href="https://github.com/HEKPYTO"><img align="center" src="https://readme-stats-hlgq.vercel.app/api?username=hekpyto&show_icons=true&theme=graywhite&hide_border=true"/></a> | <a href="https://github.com/HEKPYTO"><img align="center" src="https://readme-stats-hlgq.vercel.app/api/top-langs/?username=hekpyto&layout=compact&theme=graywhite&hide_border=true"/></a> |
+| <a href="https://github.com/HEKPYTO"><img align="center" src="https://readme-stats-hlgq.vercel.app/api?username=hekpyto&count_private=true&show_icons=true&theme=graywhite&hide_border=true"/></a> | <a href="https://github.com/HEKPYTO"><img align="center" src="https://readme-stats-hlgq.vercel.app/api/top-langs/?username=hekpyto&count_private=true&layout=compact&theme=graywhite&hide_border=true"/></a> |
 | --- | --- |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
